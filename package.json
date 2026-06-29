@@ -1,0 +1,10 @@
+{
+  "name": "daleel-fallujah",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix fallujah-medical-frontend",
+    "build": "npm run build --prefix fallujah-medical-frontend",
+    "start": "npm run start --prefix fallujah-medical-frontend",
+    "install:all": "npm install --prefix fallujah-medical-frontend"
+  }
+}
